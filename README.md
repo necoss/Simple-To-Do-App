@@ -1,6 +1,6 @@
 # Simple-To-Do-App ✅
 
-![App Screenshot] --SOON--
+![App Screenshot] ([https://imgur.com/a/oPRVgvE](https://imgur.com/a/oPRVgvE))
 *A minimalist todo application built with modern web technologies*
 
 ## ✨ Features
