@@ -17,7 +17,7 @@
 - **Vite** (Frontend tooling)  
 - **Tailwind CSS** (Utility-first styling)  
 - **JavaScript ES6+**  
-- **Web Storage API**   
+- **Web Storage API** (Local Storage)
 
 ## 📦 Installation
 1. Clone the repository:
